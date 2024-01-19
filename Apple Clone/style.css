@@ -1,0 +1,454 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.nav{
+    height: 50px;
+    background-color: #f3f2f2;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9rem;
+    font-weight: bold;
+    color: rgb(93, 92, 92);
+}
+.nav ul{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+li{
+    margin: 20px;
+}
+.nav ul li img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.nav ul li{
+    list-style-type: none;
+}
+.bankoffer{
+    display: flex;
+    justify-content: center;
+    
+}
+.bankoffers{
+    width: 620px;
+    margin-top: 20px;
+}
+
+.bankoffers p{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    align-items: center;
+    font-weight: ;
+}
+
+/* section  */
+
+.first{
+    background-color: #f3f2f2;
+}
+#firsts{
+    font-weight: bolder;
+}
+#seconds{
+    font-weight: bold;
+    color: rgb(93, 92, 92);
+}
+.storep{
+    margin: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.storebbuy{
+    font-size: 50px;
+    width: 800px;
+}
+.assistantpic{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.locate{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.locate img{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+}
+.assistantpic{
+    margin: 20px;
+}
+.assistantpic img{
+    margin: 10px;
+    border-radius: 50%;
+}
+
+.phonesandtab ul{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.phonesandtab ul li img{
+    width: 115px;
+    margin: 10px;
+}
+
+li{
+    list-style-type: none;
+
+}
+
+#textdiv p{
+    font-weight: bolder;
+    font-size: 25px;
+}
+#textdiv span{
+    color: rgb(93, 92, 92);
+}
+#textdiv{
+    margin-left: 105px;
+    padding-left: 55px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.iphoneandmac ul{
+    display: flex;
+}
+.iphoneandmac ul li img{
+    border-radius: 15px;
+}
+.iphoneandmac ul li{
+    position: relative;
+}
+
+.textoverimg{
+    position: absolute;
+    top: 10%;
+    left: 7%;
+    color: white;
+    font-size: large;
+}
+.textoverimg p{
+    margin: 5px;
+}
+.textoverimg h3{
+    margin: 5px;
+}
+.textoverimg1{
+    position: absolute;
+    top: 10%;
+    left: 7%;
+    color: black;
+    font-size: large;
+}
+.helpishere{
+    margin-left: 105px;
+    padding-left: 55px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+.helpishere p{
+    font-weight: bolder;
+    font-size: 25px;
+}
+.helpishere span{
+    color: rgb(93, 92, 92);
+}
+
+/* AppleHelp */
+
+.AppleHelp ul{
+    display: flex;
+}
+
+.AppleHelp ul li img{
+    border-radius: 15px;
+}
+.AppleHelp ul li{
+    position: relative;
+}
+.sixboxes{
+    display: flex;
+}
+.allone{
+    height: 200px;
+    width: 1000px;
+    margin: 10px;
+    border-radius: 15px;
+    background-color: white;
+}
+
+/* accessories */
+
+.avaccessories ul{
+    display: flex;
+}
+.accesoriesitems span{
+    color: rgb(212, 48, 48);
+    font-size: small;
+    font-weight: bold;
+}
+
+.accesoriesitems{
+    margin-top: 20px;
+    margin-left: 25px;
+    text-align: left;
+}
+
+.accesoriesitemsdiv{
+    margin-top: 45px;
+}
+.landchd{
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 25px;
+}
+
+.landchd1{
+    margin-top: 45px;
+}
+
+.LandD ul{
+    display: flex;
+}
+.andp{
+    height: 500px;
+    width: 350px;
+    background-color: white;
+    border-radius: 15px;
+    text-align: center;
+}
+.andp img{
+    height: 252;
+}
+
+.appexp ul{
+    display: flex;
+}
+.appexp ul li img{
+    border-radius: 15px;
+}
+.appexp ul li{
+    position: relative;
+}
+.apptext{
+    position: absolute;
+    top: 10%;
+    left: 7%;
+    color: white;
+    font-size: large;
+}
+.apptext p{
+    font-size: small;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.apptext1{
+    position: absolute;
+    top: 10%;
+    left: 7%;
+    color: black;
+    font-size: large;
+}
+.apptext1 h3{
+    font: 900;
+    margin-bottom: 10px;
+}
+.apptext1 p{
+    
+}
+.apptext h3{
+    font-weight: 900;
+}
+.apptext2{
+    position: absolute;
+    top: 10%;
+    left: 7%;
+    color: black;
+    font-size: large;
+}
+.apptext2 p{
+    font-size: small;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.apptext2 h3{
+    font-weight: 900;
+}
+.ieducation{
+    position: relative;
+    margin: 20px;
+}
+.ieducation img{
+    border-radius: 15px;
+    
+}
+.ieducationtext{
+    position: absolute;
+    top: 10%;
+    left: 2%;
+    color: black;
+    font-size: large;
+}
+.ieducationtext p{
+    font-size: small;
+    margin-bottom: 10px;
+}
+.ieducationtext h3{
+    font-size: 900;
+    margin-top: 10px;
+}
+
+/* footer */
+footer{
+    background-color: #f3f2f2;
+
+}
+.orderdetails{
+    background-color: ;
+}
+.quiclink{
+    margin-left: 105px;
+    padding-left: 55px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+.quiclink p{
+    font-weight: bolder;
+    font-size: larger;
+}
+.btn-3 button{
+    height: 30px;
+    width: 100px;
+    border-radius: 15px;
+    margin: 15px;
+    margin-left: 0;
+    border: none;
+    font-weight: bold;
+    background-color: rgb(196, 194, 194);
+}
+
+.logof{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 150px;
+}
+.logof img{
+    height: 20px;
+    margin-right: 5px;
+    width: 30px;
+    border-radius: 50%;
+}
+.shopandlearnd{
+    display: flex;
+    margin: 30px;
+    margin-left: 155px;
+}
+.marginforfoter{
+    margin: 30px;
+}
+.shopandlearndiv{
+    width: 150px;
+    text-align: left;
+}
+.shopandlearndiv p{
+    text-align: left;
+    font-weight: bolder;
+    font-size: small;
+    color: black;
+}
+.shopandlearndiv ul li{
+    text-align: left;
+    font-size: smaller;
+    margin-left: 0px;
+
+}
+.accountshop{
+    width: 200px;
+}
+.accountshop p{
+    font-weight: bolder;
+    font-size: small;
+}
+.accountshop ul li{
+    margin-left: 0px;
+    font-size: smaller;
+}
+.storeapple{
+    width: 150px;
+}
+.storeapple p{
+    font-weight: bolder;
+    font-size: small;
+}
+.storeapple ul li{
+    margin-left: 0px;
+    font-size: smaller;
+
+}
+.forbanded{
+    width: 200px;
+}
+.forbanded p{
+    font-weight: bolder;
+    font-size: small;
+}
+.forbanded ul li{
+    margin-left: 0px;
+    font-size: smaller;
+}
+.applevalues{
+    width: 200px;
+    margin-top: 25px;
+}
+.applevalues p{
+    font-weight: bolder;
+    font-size: small;
+}
+.applevalues ul li{
+    margin-left: 0px;
+    font-size: smaller;
+}
+
+.findretailer{
+    font-size: small;
+    margin-left: 160px;
+    display: flex;
+    flex-direction: column;
+}
+.findretailer p{
+    margin-bottom: 20px;
+}
+.findretailer p , .copyri{
+    flex: 1;
+}
+.copyri{
+    display: flex;
+    width: 800px;
+}
+
+.privacyp ul{
+    display: flex;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.privacyp ul li{
+    font-weight: bold;
+    font-size: small;
+}
